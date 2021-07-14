@@ -195,6 +195,15 @@ Highlights Secrtion Started
     width: 80%;
     margin-left: 50px;
 }
+#read-more{
+    text-decoration: none;
+    background-color: #E02C6D;
+    color: white;
+    width: 182px;
+    height: 44px;
+    padding: 12px;
+    border-radius: 12px;
+}
 /*//////////////////////////////////
  footer part 
  ////////////////////////////////*/
@@ -217,5 +226,4 @@ Highlights Secrtion Started
 /*//////////////////////////////////
  Media Quary 
  ////////////////////////////////*/
-
      
